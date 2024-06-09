@@ -1,5 +1,4 @@
 
-Sure, Alwyn! Below is a sample README profile that you can use for your GitHub or any other platform:
 
 Hi there, I'm Alwyn John M. Mercene! 👋
 Welcome to my profile! I'm an IT student at the Polytechnic University, and I have a passion for technology and sports.
