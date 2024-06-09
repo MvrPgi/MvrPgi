@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**MvrPgi/MvrPgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sure, Alwyn! Below is a sample README profile that you can use for your GitHub or any other platform:
 
-Here are some ideas to get you started:
+Hi there, I'm Alwyn John M. Mercene! 👋
+Welcome to my profile! I'm an IT student at the Polytechnic University, and I have a passion for technology and sports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-About Me
+🎓 IT Student at Polytechnic University
+🏸 Badminton Player - Playing badminton is my favorite way to stay active and have fun!
+💻 Tech Enthusiast - I love exploring new technologies and working on exciting projects.
+-Skills
+Programming Languages: Java, Python, JavaScript, Cobol
+Web Development: HTML, CSS, Java
+Databases: MySQL
+Tools: Git, VS Code
+
+🌱 I’m currently learning new web development frameworks.
+⚡ Fun fact: I can play badminton for hours without getting tired!
+
+-Hobbies
+Playing Badminton 🏸
+Coding and building projects 💻
+Exploring new technologies and trends 📚
+Feel free to check out my projects and connect with me!
+
