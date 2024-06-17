@@ -23,4 +23,5 @@ Exploring new technologies and trends 📚
 Feel free to check out my projects and connect with me!
 
 
+![GitHub Snake](./ASSETS/github-snake.svg)
 
