@@ -48,25 +48,23 @@ Feel free to check out my projects and connect with me!
 
 <table>
   <tr>
-    <td>
-       <p align="center"> 
-      <h3 align="center">Connect with me:</h3>
-        <a href="https://www.facebook.com/MverMercene" target="blank">
-          <img  align ="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="MverMercene" height="30" width="40" />
-        </a>
-        <a href="https://www.instagram.com/mover_21/" target="blank">
-          <img align ="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mover_21" height="30" width="40" />
-        </a>
-         <a href="https://twitter.com/MverPgi" target="blank">
-          <img align ="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="MverPgi" height="30" width="40" />
-        </a>
-      </p>
+        <td>
+          <h3>Connect with me:</h3>
+          <a href="https://www.facebook.com/MverMercene" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+              alt="MverMercene" height="30" width="40" />
+          </a>
+          <a href="https://www.instagram.com/mover_21/" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+              alt="mover_21" height="30" width="40" />
+          </a>
+          <a href="https://twitter.com/MverPgi" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+              alt="MverPgi" height="30" width="40" />
+          </a>
   </td> 
          <td>
       <p align="center">
