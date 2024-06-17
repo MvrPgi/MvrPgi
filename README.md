@@ -54,7 +54,7 @@ Feel free to check out my projects and connect with me!
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="brisebas" height="30" width="40" />
         </a>
-        <a href="https:https://www.instagram.com/mover_21/" target="blank">
+        <a href="https://www.instagram.com/mover_21/" target="blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="briansuhh" height="30" width="40" />
         </a>
