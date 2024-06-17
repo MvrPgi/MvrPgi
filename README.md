@@ -61,6 +61,11 @@ Feel free to check out my projects and connect with me!
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mover_21" height="30" width="40" />
         </a>
+         <a href="https://twitter.com/MverPgi" target="blank">
+          <img align ="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="MverPgi" height="30" width="40" />
+        </a>
       </p>
   </td> 
          <td>
