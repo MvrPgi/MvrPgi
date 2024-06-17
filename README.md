@@ -91,6 +91,9 @@ Feel free to check out my projects and connect with me!
   </tr>
   
 </table>
+
+
+
 ![GitHub Snake](./ASSETS/github-snake.svg)
 
 
