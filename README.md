@@ -95,6 +95,8 @@ Feel free to check out my projects and connect with me!
 
 
 
-![GitHub Snake](./ASSETS/github-snake.svg)
+<div style="text-align: center;">
+    <img src="./ASSETS/github-snake.svg" alt="GitHub Snake">
+</div>
 
 
