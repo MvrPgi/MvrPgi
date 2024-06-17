@@ -52,7 +52,7 @@ Feel free to check out my projects and connect with me!
        <p align="center"> 
       <h3 align="center">Connect with me:</h3>
         <a href="https://www.facebook.com/MverMercene" target="blank">
-          <img  align ="center
+          <img  align ="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="MverMercene" height="30" width="40" />
         </a>
