@@ -79,14 +79,14 @@ Feel free to check out my projects and connect with me!
   <tr>
   <td>
     <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MvrPgi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MvrPgi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MvrPgi" />
     </p>
   </td>
 
   <td>
       <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=MvrPgi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-          alt="adam-pw" />
+          alt="MvrPgi" />
       </p>
     </td>
   </tr>
@@ -95,7 +95,7 @@ Feel free to check out my projects and connect with me!
 
 
 
-<div style="text-align: center;">
+<div style="text-align: right;">
     <img src="./ASSETS/github-snake.svg" alt="GitHub Snake">
 </div>
 
