@@ -33,8 +33,9 @@ Welcome to my profile! I'm an IT student at the Polytechnic University, and I ha
 - **Web Development:** HTML, CSS, Java
 - **Databases:** MySQL
 
-- 🌱 I’m currently learning new web development frameworks.
+
 - ⚡ Fun fact: I can play badminton for hours without getting tired!
+  
 
 ## Hobbies
 - Playing Badminton 🏸
