@@ -24,5 +24,3 @@ Feel free to check out my projects and connect with me!
 
 
 
-
-![snake gif](https://github.com/MvrPgi/MvrPgi/blob/output/github-contribution-grid-snake.gif)
