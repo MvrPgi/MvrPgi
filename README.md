@@ -21,23 +21,23 @@ Welcome to my profile! I'm an IT student at the Polytechnic University, and I ha
 
 ## About Me
 - 🎓 IT Student at Polytechnic University
-- 🏸 Badminton Player  
-  Playing badminton is my favorite way to stay active and have fun!
+- 🏃‍♂️ Running Enthusiast   
+  I enjoy long-distance running and participating in marathons.
 - 💻 Tech Enthusiast  
   I love exploring new technologies and working on exciting projects.
+- ⚡ Fun fact: I can play badminton for hours without getting tired!
 
 ## Skills
 
 - **Programming Languages:** Java, Python, JavaScript, Cobol
+- **Machine Learning** : Yolov11, Roboflow, Numpy
 - **Web Development:** HTML, CSS, Java
 - **Databases:** MySQL
+- **Version Control:** Git, GitHub
 
-
-- ⚡ Fun fact: I can play badminton for hours without getting tired!
-  
 
 ## Hobbies
-- Playing Badminton 🏸
+- Running and staying active 🏃‍♂️
 - Coding and building projects 💻
 - Exploring new technologies and trends 📚
 
@@ -61,19 +61,13 @@ Feel free to check out my projects and connect with me!
                alt="mover_21" height="30" width="40" />
         </a>
   <a href="https://www.linkedin.com/in/alwyn-john-m-mercene-3a9b05262" target="_blank">
-        
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg](https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/linked-in.svg"
-               alt="MverPgi" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="MverPgi" height="30" width="40" />
+  </a>
         </a>
       </p>
     </td>
-    <td>
-      <p align="center">
-        <img align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=MvrPgi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-          alt="MvrPgi" />
-      </p>
-    </td>
+
   </tr>
   <tr>
     <td>
