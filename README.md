@@ -48,8 +48,9 @@ Feel free to check out my projects and connect with me!
 <table>
   <tr>
     <td>
-       <p align="center"> 
-       <h3 align="center">Connect with me:</h3>
+      <p align="center"> 
+        <h3 align="center">Connect with me:</h3>
+      </p>
       <p align="center">
         <a href="https://www.facebook.com/MverMercene" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -59,39 +60,37 @@ Feel free to check out my projects and connect with me!
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                alt="mover_21" height="30" width="40" />
         </a>
-        <a href="https://twitter.com/MverPgi" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        <a href="www.linkedin.com/in/alwyn-john-m-mercene-3a9b05262" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
                alt="MverPgi" height="30" width="40" />
         </a>
       </p>
-  </td>
-         <td>
+    </td>
+    <td>
       <p align="center">
         <img align="center"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=MvrPgi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-          alt="briansuhh" 
-          bg_color=#808080/>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-  <td>
-    <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MvrPgi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MvrPgi" />
-    </p>
-  </td>
-
-  <td>
-      <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MvrPgi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
           alt="MvrPgi" />
       </p>
     </td>
   </tr>
-  
+  <tr>
+    <td>
+      <p align="center">
+        <img align="center" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=MvrPgi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
+          alt="MvrPgi" />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img align="center" 
+          src="https://github-readme-stats.vercel.app/api?username=MvrPgi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+          alt="MvrPgi" />
+      </p>
+    </td>
+  </tr>
 </table>
-
 
 
 <div style="text-align: right;">
