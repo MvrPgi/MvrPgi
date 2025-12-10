@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ASSETS/pogi.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+  <img src="./ASSETS/pogi.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 # 👓MvrPgi
